@@ -1,21 +1,17 @@
 ## Źródła
 - **Dataset**: https://archive.ics.uci.edu/dataset/73/mushroom
-
 - **Licencja**: Creative Commons Attribution 4.0 International (CC BY 4.0) license, https://creativecommons.org/licenses/by/4.0/
-
 - **Data pobrania**: 15.10.2025
 
 ---
 
 ## Metryka ewaluacji
 - **Metryka**: F1-score dla klasy „poisonous”
-
 - **Uzasadnienie**: Błąd polegający na sklasyfikowaniu trującego grzyba jako jadalny jest krytyczny, dlatego metryka F1-score pozwala zbalansować precyzję i recall dla klasy trujących grzybów.
 
 ---
 
 ## Weights & Biases
-
 - **W&B**: https://wandb.ai/s25983-pjatk/mushrooms?nw=nwusers25983
 
 ---
