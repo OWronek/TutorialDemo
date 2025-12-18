@@ -9,8 +9,7 @@
 ## Metryka ewaluacji
 
 - **Metryka**: F1-score dla klasy „poisonous”
-- **Uzasadnienie**: Błąd polegający na sklasyfikowaniu trującego grzyba jako jadalny jest krytyczny, dlatego
-metryka F1-score pozwala zbalansować precyzję i recall dla klasy trujących grzybów.
+- **Uzasadnienie**: Błąd polegający na sklasyfikowaniu trującego grzyba jako jadalny jest krytyczny, dlatego metryka F1-score pozwala zbalansować precyzję i recall dla klasy trujących grzybów.
 
 ---
 
@@ -62,5 +61,5 @@ metryka F1-score pozwala zbalansować precyzję i recall dla klasy trujących gr
    ```
 <img width="372" height="922" alt="image" src="https://github.com/user-attachments/assets/bd8a62e7-3509-4a4a-914a-7496292aff10" />
 
-#### Tabela runów
+### Tabela runów
 <img width="1112" height="219" alt="image" src="https://github.com/user-attachments/assets/8234949b-df94-4699-be7c-96a123297986" />
