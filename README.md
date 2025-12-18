@@ -48,6 +48,7 @@
    pip install -e .
    ```
 5. Pobierz pełny zestaw danych z 1 linijki tego pliku, rozpakuj archiwum oraz umieść plik agaricus-lepiota.data w data/01_raw pod nazwą mushrooms.csv
+
 6. Uruchom eksperymenty kedro z różnymi parametrami:
    ```bash
    kedro run --params autogluon.time_limit=60
