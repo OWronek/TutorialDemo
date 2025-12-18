@@ -59,6 +59,7 @@
    ```bash
    kedro run --params autogluon.presets=best_quality,autogluon.time_limit=60
    ```
+### Kedro pipeline
 <img width="372" height="922" alt="image" src="https://github.com/user-attachments/assets/bd8a62e7-3509-4a4a-914a-7496292aff10" />
 
 ### Tabela runów
