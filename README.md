@@ -5,23 +5,27 @@
 
 - **Data pobrania**: 15.10.2025
 
+---
 
 ## Metryka ewaluacji
 - **Metryka**: F1-score dla klasy „poisonous”
 
 - **Uzasadnienie**: Błąd polegający na sklasyfikowaniu trującego grzyba jako jadalny jest krytyczny, dlatego metryka F1-score pozwala zbalansować precyzję i recall dla klasy trujących grzybów.
 
+---
 
 ## Weights & Biases
 
 - **W&B**: https://wandb.ai/s25983-pjatk/mushrooms?nw=nwusers25983
 
+---
 
 ## Wymagania
 - **Git**
 - **Conda / Miniconda**
 - **Python 3.9–3.11**
 
+---
 
 ## Uruchom:
 
